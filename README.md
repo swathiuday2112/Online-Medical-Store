@@ -6,16 +6,16 @@ CURETRY is an Online Medical Store application built using Tkinter module in Pyt
 
 ## Features
 ### User Interface (Curetry.py)
-   `User Authentication`: Users are prompted to login or signup if it's their first time.
-   `Medicine Catalog`: Users can view the list of medicines (static) with a search feature.
-   `Shopping Cart`: Users can select the quantity of medicines and add them to the cart.
-   `Preview Bill`: Users can preview the bill with the total amount for the cart items.
-   `Order Placement`: Users can enter delivery address and contact information to place the order.
-   `Bill Generation`: Upon successful order placement, a bill is generated using the fpdf library.
+   - `User Authentication`: Users are prompted to login or signup if it's their first time.
+   - `Medicine Catalog`: Users can view the list of medicines (static) with a search feature.
+   - `Shopping Cart`: Users can select the quantity of medicines and add them to the cart.
+   - `Preview Bill`: Users can preview the bill with the total amount for the cart items.
+   - `Order Placement`: Users can enter delivery address and contact information to place the order.
+   - `Bill Generation`: Upon successful order placement, a bill is generated using the fpdf library.
 
 ### Admin Interface (ProjectCuretryAdmin.py)
-   `Admin Authentication`: Admins are prompted to login.
-   `Stock Management`: Admins can view existing medicines, update their quantity, and add new medicines to the database.
+   - `Admin Authentication`: Admins are prompted to login.
+   - `Stock Management`: Admins can view existing medicines, update their quantity, and add new medicines to the database.
 
 ## Usage
     Clone this repository or download the project files.
